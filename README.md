@@ -115,7 +115,7 @@ Don't forget to include the comments as seen above. Feel free to include additio
 [hello_world.sh](https://github.com/hackthepart/init/blob/master/scripts/hello_world.sh)
 
 ## BONUS!
-* See profiles submitted by fellow developers ... from Kathmandu to Delhi.
+* See profiles submitted by fellow developers ...
 * Discover some obscure to new and trending languages ... from BrainFuck to Rust.
 * Check out some very creative ways to print out a "Hello, World!" string.
 
