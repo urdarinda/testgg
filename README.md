@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # HackThePart Starter Project
 
 Hello MNNIT! Greetings from XXXXXXXX
@@ -9,12 +8,12 @@ Join us by getting involved in the open source community by completing some simp
 
 This is a repository open to all members of MNNIT. Any one may contribute to this project without being a collaborator.
 
-[https://hackthepart.github.io/XXXXXX/](https://alicewonderland.github.io/XXXXXXX/)
+[https://hackthepart.github.io/XXXXXX/](https://hackthepart.github.io/XXXXXXX/)
 
 
 ## What is HackThePart?
 
-A month-long XXX from Dec 10th - Jan 31st to get people involved in [Open Source](https://github.com/open-source). Create your very first Pull Request with us on GitHub and contribute to the Open Source Developer Community.
+A month-long XXX from Dec 10th - Jan 31st to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request with us on GitHub and contribute to the Open Source Developer Community.
 
 
 ## How to contribute to this project
@@ -136,6 +135,3 @@ Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/
 
 ## Additional references added by contributors
 GitHub license explained [https://choosealicense.com](https://choosealicense.com)
-=======
-# AvengersAssemble
->>>>>>> refs/remotes/origin/master
