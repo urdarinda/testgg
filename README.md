@@ -13,9 +13,19 @@ This is a repository open to all members of MNNIT.
 
 ## What is HackThePart?
 
-A month-long contest from Dec 10th - Jan 10th to get people involved in [Open Source](https://github.com/open-source).This repo is just the guide to get started on github. We have a lot of different repos coming up this whole month. So learn github and coding while you are at it and keep checking for more projects!
+A month-long contest from Dec 10th - Jan 10th to get people involved in [Open Source](https://github.com/open-source).This repo is just the guide to get started on github. We have a lot of different projects coming up that you can do. So learn github and coding while you are at it and keep checking for more projects as they will be added timely!
 
 All projects belong to different fields related to web, android, software etc. Choose any and start fixing the issues or propose new features! Every feature you add or an issue you fix will fetch you some points according to the difficulty. At the end of the month, one who has most of the points will be the winner. Also, there are special things just for first year. Stay tuned and keep checking the repos [here](https://github.com/hackthepart) for more projects and issues :D
+
+
+So, if you want to contribute to a particular project by either fixing an issue or adding a feature, all you have to do is 
+* Fork the project
+* Create a new branch
+* Add a feature /fix the issue
+* Create a Pull Request
+* Wait for it to accept and grab your points :D
+
+If you don't know what the above means , just keep reading ... you'll get there.
 
 
 
