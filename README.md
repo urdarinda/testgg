@@ -154,10 +154,10 @@ Checkout this list for README examples - Awesome README [![Awesome](https://cdn.
 Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
  
  ## Contacts
- [Jatin Rungta](https://fb.com/jatinrungta)
+ [Jatin 'urdarinda' Rungta](https://fb.com/jatinrungta) (https://github.com/urdarinda)
  
- [Shivam Sengar](https://fb.com/S3sngh)
+ [Shivam 'shisen404' Sengar](https://fb.com/S3sngh) (https://github.com/shisen404)
  
- [Tushar Agarwal](https://fb.com/tushalien)
+ [Tushar 'tushalien' Agarwal](https://fb.com/tushalien) (https://github.com/tushalien)
  
- [Nikhil Agarwal](https://fb.com/nikil.agar)
+ [Nikhil 'nikilagar' Agarwal](https://fb.com/nikil.agar) (https://github.com/nikilagar)
