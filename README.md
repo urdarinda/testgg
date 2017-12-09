@@ -1,19 +1,22 @@
 # HackThePart Starter Project
 
-Hello MNNIT! Greetings from XXXXXXXX
+Hello NOOBS
 
 Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
 
 Join us by getting involved in the open source community by completing some simple tasks in this project.
 
-This is a repository open to all members of MNNIT. Any one may contribute to this project without being a collaborator.
+This is a repository open to all members of MNNIT.
 
 [https://hackthepart.github.io/XXXXXX/](https://hackthepart.github.io/XXXXXXX/)
 
 
 ## What is HackThePart?
 
-A month-long XXX from Dec 10th - Jan 31st to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request with us on GitHub and contribute to the Open Source Developer Community.
+A month-long contest from Dec 10th - Jan 10th to get people involved in [Open Source](https://github.com/open-source).This repo is just the guide to get started on github. We have a lot of different repos coming up this whole month. So learn github and coding while you are at it and keep checking for more projects!
+
+All projects belong to different fields related to web, android, software etc. Choose any and start fixing the issues or propose new features! Every feature or issue will award you with some points according to the difficulty. At the end of the month, one who has most of the points will be the winner. Also, there are special things just for first year. Stay tuned and keep checking the repos for more projects and issues :D
+
 
 
 ## How to contribute to this project
@@ -132,6 +135,5 @@ Keep Your Fork Synced: [https://gist.github.com/CristinaSolana/1885435](https://
 Checkout this list for README examples - Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Github-Flavored Markdown [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/)
-
-## Additional references added by contributors
-GitHub license explained [https://choosealicense.com](https://choosealicense.com)
+ 
+ 
