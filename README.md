@@ -2,20 +2,20 @@
 
 Hello NOOBS
 
-Use this project to make your first contribution to an open source project on GitHub :octocat: . Practice making your first pull request to a public repository before doing the real thing!
+Use this project to make your first contribution to the world of Open Source on GitHub :octocat: . Practice making your first pull request to a public repository before doing the real thing!
 
-Join us by getting involved in the open source community by completing some simple tasks in this project.
+Join us by getting involved in the open source community solving some interesting tasks along the way.
 
-This is a repository open to all members of MNNIT.
+This repository is open to all students of MNNIT.
 
 [https://hackthepart.github.io/AvengersAssemble/](https://hackthepart.github.io/AvengersAssemble/)
 
 
 ## What is HackThePart?
 
-A month-long contest from Dec 10th - Jan 10th to get people involved in [Open Source](https://github.com/open-source). This repo is just the guide to get started on github. We have a lot of different projects coming up that you can do. So learn github and coding while you are at it and keep checking for more projects as they will be added timely!
+A month-long contest from Dec 10th - Jan 10th to get people involved in [Open Source](https://github.com/open-source). This repo is just the guide to get started on github. We have a lot of different projects coming up. So start contributing anf while you are at it, keep checking for more projects as they are added!
 
-All projects belong to different fields related to web, android, software etc. Choose any and start fixing the issues or propose new features! Every feature you add or an issue you fix will fetch you some points according to the difficulty. At the end of the month, one who has most of the points will be the winner. Also, there are special things just for first year. Stay tuned and keep checking the repos [here](https://github.com/hackthepart) for more projects and issues :smiley:
+Choose any project and start fixing the issues. You can propose new features too !! Every feature you add or an issue you fix will fetch you some points according to the difficulty. At the end of the month, one who has the most points will be the winner. There are goodies waiting for you :P You might get a wildcard entry to HACK36. Also, there are special arrangements just for first year. So, Stay tuned and keep checking the repos [here](https://github.com/hackthepart) for more projects and issues :smiley:
 
 
 So, if you want to contribute to a particular project by either fixing an issue or adding a feature, all you have to do is 
@@ -30,7 +30,7 @@ Also, please make sure to follow the proper formatting such as
 ```markdown
 fixes #1
 ```
-if you want your PR to be approved. The correct formatting should be self learned. We won't help you there.
+if you want your PR to be approved. The correct formatting should be followed. We won't help you there.
 
 If you don't know what the above means , just keep reading ... you'll get there.
 
