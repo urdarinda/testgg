@@ -2,7 +2,7 @@
 
 Hello NOOBS
 
-Use this project to make your first contribution to the world of Open Source on GitHub :octocat: . Practice making your first pull request to a public repository before doing the real thing!
+Use this project to make your first contribution to the world of Open Source on GitHub :octocat: .
 
 Join us by getting involved in the open source community solving some interesting tasks along the way.
 
