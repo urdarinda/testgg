@@ -29,18 +29,18 @@ public class GameWindow extends javax.swing.JFrame {
     
     private void reset(){
         for(int i = 0; i < 3; i++){
-                for(int j = 0; j < 3; j++){
-                    playingLabels[i][j].setText(".");
-                }
+            for(int j = 0; j < 3; j++){
+                playingLabels[i][j].setText(".");
             }
+        }
         currentPlayer = 0;
     }
+
     private void endGame(int currentPlayer){
         JOptionPane.showMessageDialog(null, "Player " + (currentPlayer + 1) + " Wins !!!");
         int playAgainOrNot = JOptionPane.showConfirmDialog(null, "Want to play again???", "Continue?", 0);
-        if(playAgainOrNot == JOptionPane.YES_OPTION){
+        if(playAgainOrNot == JOptionPane.YES_OPTION)
             reset();
-        }
         else 
             dispatchEvent(new WindowEvent(this, WindowEvent.WINDOW_CLOSING));
         
@@ -51,6 +51,7 @@ public class GameWindow extends javax.swing.JFrame {
         if(currentPlayer == 1)
             currentPlayerMove = "X";
         boolean isGameOver = false, flag;
+
         // checking horizontal match
         for(int i = 0; i < 3; i++){
             flag = true;
